@@ -1,5 +1,6 @@
 ---
 items:
+  - blockful-io/swaplace-contracts
   - clappr/clappr
   - devhubapp/devhub
   - dracula/dracula-theme
